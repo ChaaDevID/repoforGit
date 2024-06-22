@@ -18,3 +18,6 @@ some changes
 fixing some bug
 
 working on fic bug
+
+bug fixed
+
