@@ -10,6 +10,4 @@ println("Hello world")
 --bug of login is fixed 
 --this is conflict go 
 
-rebase working in i 
-
-maynelly rebase here
+working in rebas e	
