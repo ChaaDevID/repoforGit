@@ -9,3 +9,5 @@ println("Hello world")
 --another push to remote
 --bug of login is fixed 
 --this is conflict go 
+
+rebase working in i 
