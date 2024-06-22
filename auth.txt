@@ -1,1 +1,7 @@
 File for auth feature 
+
+--fun for main 
+main{
+
+println("feature auth")
+}
